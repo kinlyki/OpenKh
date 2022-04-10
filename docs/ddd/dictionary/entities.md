@@ -149,8 +149,8 @@
 | b_eh140 | Young Xehanort            |
 | b_di110 | Ursula                    |
 | b_di120 | Ursula (Tentacle)         |
-| b_eh160 | Young Xehanort 2          |
-| b_eh190 | Young Xehanort 3          |
+| b_eh160 | Young Xehanort (DM Clones)|
+| b_eh190 | Young Xehanort's Keyblade |
 | b_de160 | Spellican (Broom)         |
 | b_de880 |                           |
 | b_tw200 | Julius                    |
